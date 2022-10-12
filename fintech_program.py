@@ -1,5 +1,6 @@
 #This program takes in user input, registers them unto a database and allows registered 
 #users to transact among themselves. The program includes python, tkinter GUI and mysql databases.
+#This file includes all the lines of code needed to run the program, in one place.
 
 #Module list_______________________________________________________________________________________________________________
 from datetime import date, datetime
