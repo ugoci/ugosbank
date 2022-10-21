@@ -66,5 +66,4 @@ def start_program():
     else:
         print("We noticed that you did not chose a valid option.\nThe program will close now.\nDo come back again but please pay attention to the instructions across the program.\n")
 
-
 start_program()
