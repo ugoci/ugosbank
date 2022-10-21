@@ -3,7 +3,7 @@
 Capstone project for CodingNomads
 * Project title: The Bank of Ugo (The BU)
 * Thanks to my mentor Deniz Y. 
-* Run the program using fintech_program.py file
+* Run the program using fintech_program.py and variables.py files
 _________________________
 
 ## Overview
@@ -29,7 +29,7 @@ The program works by taking a set of user inputs to create each unique user prof
 ## Installation and running the program
 
 * Use the package manager [pip] to install the packages listed in the requirements.
-* Use the file fintech_program.py as your primary file for this program. *Note that The other files are backups and are not needed to run the primary file.*
+* Use the file fintech_program.py as your primary file for this program and should be used along with the variables.py file. *Note that The other files are backups and are not needed to run the primary file.*
 
 ## Usage
 
