@@ -320,4 +320,3 @@ skill_coefficient_list = {
 "Written communication": 5}
 
 
-
