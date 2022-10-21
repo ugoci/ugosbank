@@ -50,6 +50,12 @@ from tkinter import *
 
 ## Creating databases in MySQL
 
+###### Notes on the database
+
+Create two tables. The first just holds the username and password. The second holds all the other info that is collected as part of the registration process.
+
+###### Creating the tables in MySQL
+
 step 1 establishing the connection to the database:
 
 ```	
