@@ -3,6 +3,7 @@
 Capstone project for CodingNomads
 * Project title: The Bank of Ugo (The BU)
 * Thanks to my mentor Deniz Y. 
+* Run the program using fintech_program.py file
 _________________________
 
 ## Overview
