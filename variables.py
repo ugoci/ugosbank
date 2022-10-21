@@ -32,7 +32,6 @@ p_loan_amount = f"What is the loan amount that you are requesting?: "
 p_check_skill_database = "Look through the list of skills in the new window and\ncheck the number that corresponds to your main skill.\nType yes when you are ready to see the skill list: "
 
 
-
 privacy_statment = """Privacy Policy\n
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service
 and tells You about Your privacy rights and how the law protects You.
