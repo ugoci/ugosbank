@@ -16,37 +16,20 @@ The program works by taking a set of user inputs to create each unique user prof
 
 ## Requirements 
 
-   - greenlet==1.1.3
-   - mysql==0.0.3
-   - mysql-connector-python==8.0.30
-   - mysqlclient==2.1.1
-   - prettyprint==0.1.5
-   - protobuf==3.20.1
-   - PyMySQL==1.0.2
-   - SQLAlchemy==1.4.41
-   - tk==0.1.0
+* greenlet==2.0.0
+* mysql==0.0.3
+* mysql-connector==2.2.9
+* mysql-connector-python==8.0.31
+* mysqlclient==2.1.1
+* prettyprint==0.1.5
+* protobuf==3.20.1
+* PyMySQL==1.0.2
+* tk==0.1.0
 
 ## Installation and running the program
 
 * Use the package manager [pip] to install the packages listed in the requirements.
-* Use the file fintech_program.py as your primary file for this program and should be used along with the variables.py file. *Note that The other files are backups and are not needed to run the primary file.*
-
-## Usage
-
-```python
-# import the following modules. For this version, please copy the modules as shown below, future versions will improve on the method of importing
-from datetime import date, datetime
-import time
-import re
-from tkinter import END
-import mysql.connector
-import pymysql
-from pprint import pp
-import decimal
-from variables import *
-from cpsfunctions import *
-from tkinter import *
-```
+* Use the file start_fintech_program.py to run the program
 
 ## Creating databases in MySQL
 
@@ -98,4 +81,3 @@ value_to_insert = ("a name", age, "year-month-day", "city", int figure, "phone n
 mycursor.execute(insert_to_table, value_to_insert)
 
 establish_sql_connection.commit()```
-
