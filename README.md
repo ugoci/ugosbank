@@ -31,6 +31,17 @@ The program works by taking a set of user inputs to create each unique user prof
 * Use the package manager [pip] to install the packages listed in the requirements.
 * Use the file start_fintech_program.py to run the program
 
+## Usage
+
+Additional files needed to run the program are:
+* accessing_database_class.py
+* central_bank_class.py
+* dialogue_box_opening_functions.py
+* security_authentication_functions.py
+* user_bank_account_class.py
+* user_functions.py
+* variables.py
+
 ## Creating databases in MySQL
 
 ###### Notes on the database
